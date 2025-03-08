@@ -27,11 +27,6 @@ I built this interactive website to surprise my girlfriend on **Women’s Day**!
 
 ---
 
-## ⚡ Quick Start  
-1. **Clone the repo**:  
-   ```bash  
-   git clone https://github.com/Aoudumber-Bade/Womens-day-surprise.git 
-
 ## 🌈 Customize for Your Partner  
 1. **Replace text** in `index.html` (line 42) with your message.  
 2. **Tweak heart colors** in `styles.css` (search for `--heart-color` variable).  
